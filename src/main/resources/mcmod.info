@@ -1,0 +1,16 @@
+[
+{
+  "modid": "potential",
+  "name": "Potential Difference",
+  "description": "Example placeholder mod.",
+  "version": "0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NorthernSprint"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,14 @@
+tile.DIFFERENTIAL_BLOCK.name=Differential Block
+
+item.STABILITY_CORE.name=Stability Core
+item.DIFFERENTIAL_INGOT.name=Differential Ingot
+item.DIFFERENTIAL_NUGGET.name=Differential Nugget
+item.DIFFERENTIAL_PICKAXE.name=Differential Pickaxe
+item.DIFFERENTIAL_SHOVEL.name=Differential Shovel
+item.DIFFERENTIAL_AXE.name=Differential Axe
+item.DIFFERENTIAL_HOE.name=Differential Hoe
+item.DIFFERENTIAL_SWORD.name=Differential Sword
+
+itemGroup.POTENTIAL_TOOLS=Tools - Potential Difference
+itemGroup.POTENTIAL_INGREDIENTS=Ingredients - Potential Difference
+itemGroup.POTENTIAL_BLOCKS=Blocks - Potential Difference
